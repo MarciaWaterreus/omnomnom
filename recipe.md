@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## H1 Double Choc Beet Brownie
 Here’s a fabulous Double choc beet brownie recipe to feed your soul <3. It's gooey, fudgy and so good warm. This is a recipe from our brownie framework on our Ultimate Vegan Cooking Course where we teach you how to cook without recipes! We're had great feedback and distils our 14 years experience as vegan chefs, it can be done from anywhere in the world at your own pace.
 
@@ -64,45 +62,3 @@ Here’s a fabulous Double choc beet brownie recipe to feed your soul <3. It's g
 * Again heat a clean non stick pan on high heat, once warm reduce to a medium heat and cooked the burgers on medium heat until the form a nice crust on outside.
 
 * Garnish with hummus on bottom bun, crunchy little gem lettuce, slices of Avocado and red onion, gherkins on top the burger and anything else you fancy!
-
->>>>>>> 077460a1ab5587168c9776b4e2d030c7032562ea
-=======
-## Directions
-
-* Roughly chop the sweet potato. Boil until cooked through, drain and rinse in cold water, then transfer to a medium mixing bowl.
-
-* While the veg is cooking, Peel and chop the onion, finely chop the garlic. Chop the roasted red peppers.
-
-* Blend the oats in a blender until a breadcrumb texture. Weigh out your ingredients.
-
-* In a medium non stick pan, heat on high heat until its hot, add the onion and cook till it starts to brown for 3-4 mins and reduce the heat to medium, add the garlic, stirring for 2-3 minutes, add the spinach and chopped roasted red peppers, a small pinch of salt. Mix well and cook for a further minute.
-
-* In a large bowl add the cooked veg, cooked sweet potato and the rest of the ingredients less the gram flour.
-
-* Mash using a potato masher, leaving a little texture, until its well mixed and the spinach and red pepper is well distributed. Shape into 4 large 160g burgers or 5 smaller burgers.
-
-* On a large plate sift the gram flour and lightly coat each side of the burgers.
-
-* Again heat a clean non stick pan on high heat, once warm reduce to a medium heat and cooked the burgers on medium heat until the form a nice crust on outside.
-
-* Garnish with hummus on bottom bun, crunchy little gem lettuce, slices of Avocado and red onion, gherkins on top the burger and anything else you fancy!
-
-## H2 INGREDIENTS - PIRI PIRI SAUCE
- * 100 g Almond Flour
- * 100 g White Flour
- * 200 g olive Oil
- * 200 ml Maple Syrup
- * 60 g Coffee
- * 1 tbsp Vanilla Extract
- * 200 g Cooked Beetroot (chopped roughly)
- * 1 tbsp Baking Soda
-
-## H2 INGREDIENTS FOR THE CHOCOLATE MOUSSE
- * 200 g Dark Chocolate
- * 150 ml Boiling Water
- * Ice
-
-
-
- NU NAAR NIEUWE BRANCH
->>>>>>> 3f0f8dbe1cf92438556afaee99b2c6bd832090d1
