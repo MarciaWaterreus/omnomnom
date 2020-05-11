@@ -61,33 +61,4 @@ Here’s a fabulous Double choc beet brownie recipe to feed your soul <3. It's g
 
 * Again heat a clean non stick pan on high heat, once warm reduce to a medium heat and cooked the burgers on medium heat until the form a nice crust on outside.
 
-<<<<<<< HEAD
-* Garnish with hummus on bottom bun, crunchy little gem lettuce, slices of Avocado and red onion, gherkins on top the burger and anything else you fancy!
-
-## H2 INGREDIENTS - PIRI PIRI SAUCE
- * 100 g Almond Flour
- * 100 g White Flour
- * 200 g olive Oil
- * 200 ml Maple Syrup
- * 60 g Coffee
- * 1 tbsp Vanilla Extract
- * 200 g Cooked Beetroot (chopped roughly)
- * 1 tbsp Baking Soda
-
-## H2 INGREDIENTS FOR THE CHOCOLATE MOUSSE
- * 200 g Dark Chocolate
- * 150 ml Boiling Water
- * Ice
-
-
-
- NU NAAR NIEUWE BRANCH! poging 2
-=======
-* Garnish with hummus on bottom bun, crunchy little gem lettuce, slices of Avocado and red onion, gherkins on top the burger and anything else you fancy!
->>>>>>> 2b70f69bfeeaa61f6a1c32f2b66bb207b988811e
-
-
-
-
-
 Hallo ik ben een wijzing!!!!
