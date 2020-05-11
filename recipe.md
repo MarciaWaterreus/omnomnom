@@ -61,4 +61,4 @@ Here’s a fabulous Double choc beet brownie recipe to feed your soul <3. It's g
 
 * Again heat a clean non stick pan on high heat, once warm reduce to a medium heat and cooked the burgers on medium heat until the form a nice crust on outside.
 
-* Garnish with hummus on bottom bun, crunchy little gem lettuce, slices of Avocado and red onion, gherkins on top the burger and anything else you fancy!
+Hallo ik ben een wijzing!!!!
